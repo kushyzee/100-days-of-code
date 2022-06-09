@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Arinze
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [June 9, Thursday, 2022].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Finally got done with the technical documentation project from freecodecamp. You can check the [preview here](https://kushyzee.github.io/Bootstrap-technical-documentation-project/). This is the [link to the repository](https://github.com/kushyzee/Bootstrap-technical-documentation-project/commits/main) 
 
-### R1D2
