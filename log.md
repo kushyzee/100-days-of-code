@@ -9,3 +9,15 @@
 **Link(s) to work**:
 - [Technical documentation project](https://kushyzee.github.io/Bootstrap-technical-documentation-project/)
 - [project commits on github](https://github.com/kushyzee/Bootstrap-technical-documentation-project/commits/main)
+
+
+### Day 1: June 10, 2022
+
+**Today's Progress**: learnt a little bit about git and also started a new journey on my responsive design certification course in freecodecamp
+
+**Thoughts**:
+- I spent a lot of time learning about git and how to integrate it with vscode. I successfully learnt it after following tutorials on YouTube and I did a test run by commiting some dummy files to github through vscode
+
+- I continued my responsive layout journey on freecodecamp. Right now I am learning about CSS variables by building a city skyline
+
+**Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1535323343724879874?t=MtpZ9LtYk0oMN0SIowzoSg&s=19)
