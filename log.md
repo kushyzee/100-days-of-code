@@ -1,6 +1,6 @@
  # 100 Days Of Code - Log
 
-### Day 0: June 9, 2022
+### Day 1: June 9, 2022
 
 **Today's Progress**: Completed FreeCodeCamp technical documentation project
 
@@ -11,7 +11,7 @@
 - [project commits on github](https://github.com/kushyzee/Bootstrap-technical-documentation-project/commits/main)
 
 
-### Day 1: June 10, 2022
+### Day 2: June 10, 2022
 
 **Today's Progress**: learnt a little bit about git and also started a new journey on my responsive design certification course in freecodecamp
 
