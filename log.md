@@ -21,3 +21,10 @@
 - I continued my responsive layout journey on freecodecamp. Right now I am learning about CSS variables by building a city skyline
 
 **Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1535323343724879874?t=MtpZ9LtYk0oMN0SIowzoSg&s=19)
+
+
+### Day 3: June 11, 2022
+
+**Today's Progress**: I finally completed the CSS variable chapter on freecodecamp by building a city skyline. I also started working a new project where I am trying to clone [tello website](https://trello.com/home)
+
+**Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1535725468787347456?t=7leMf9OkzUrFXcvlX4N8Hw&s=19) containing screenshots of the end result
