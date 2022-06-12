@@ -14,3 +14,6 @@ Finally got done with the technical documentation project from freecodecamp. You
 
 ### R1D3
 -  I finally completed the CSS variable chapter on freecodecamp by building a city skyline. I also started working on a new project where I am trying to clone [tello website](https://trello.com/home)
+
+### R1D4
+- I didn't do much today except working on the website cloning project I started yesterday. I got stuck trying to make a full page navigation menu and after several hours of searching for ways to do it with just HTML and CSS online, I found a great video on YouTube by Prem Shahi [codinglab channel](https://youtu.be/nKnrdABs7Zs) which was very useful
