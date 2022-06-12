@@ -28,3 +28,17 @@
 **Today's Progress**: I finally completed the CSS variable chapter on freecodecamp by building a city skyline. I also started working a new project where I am trying to clone [tello website](https://trello.com/home)
 
 **Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1535725468787347456?t=7leMf9OkzUrFXcvlX4N8Hw&s=19) containing screenshots of the end result
+
+
+### Day 4: June 12, 2022
+
+**Today's Progress**: continued working on cloning Tello website
+
+**Thoughts**: I didn't do much today except working on the website cloning project I started yesterday. I got stuck trying to make a a full page navigation menu and after several hours of searching for ways to do it with just HTML and CSS online, I found a great video on YouTube by Prem Shahi [codinglab channel](https://youtu.be/nKnrdABs7Zs) which was very useful
+
+
+### Day 3: June 11, 2022
+
+**Today's Progress**
+
+**Thoughts**:
