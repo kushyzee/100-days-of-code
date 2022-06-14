@@ -17,3 +17,7 @@ Finally got done with the technical documentation project from freecodecamp. You
 
 ### R1D4
 - I didn't do much today except working on the website cloning project I started yesterday. I got stuck trying to make a full page navigation menu and after several hours of searching for ways to do it with just HTML and CSS online, I found a great video on YouTube by Prem Shahi [codinglab channel](https://youtu.be/nKnrdABs7Zs) which was very useful
+
+### R1D5
+- I didn't have access to my laptop for most part of today, so I used my phone to work on a little project using the knowledge of a video tutorial I watched on YouTube a few days ago. It's a simple full page nav menu using just HTML and CSS
+
