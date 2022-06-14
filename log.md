@@ -37,8 +37,16 @@
 **Thoughts**: I didn't do much today except working on the website cloning project I started yesterday. I got stuck trying to make a a full page navigation menu and after several hours of searching for ways to do it with just HTML and CSS online, I found a great video on YouTube by Prem Shahi [codinglab channel](https://youtu.be/nKnrdABs7Zs) which was very useful
 
 
-### Day 3: June 11, 2022
+### Day 5: June 14, 2022
 
-**Today's Progress**
+**Today's Progress**: Worked on a simple full page nav menu project
 
-**Thoughts**:
+**Thoughts**: I didn't have access to my laptop for most part of today, so I used my phone to work on a little project using the knowledge of a video tutorial I watched on YouTube a few days ago. It's a simple full page nav menu using just HTML and CSS
+
+**Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1536774309372469248?t=C59EXsITeEbO29hPeLHYPg&s=19)
+
+### Day 5: June 14, 2022
+
+**Today's Progress**: Worked on a simple full page nav menu project
+
+**Thoughts**: 
