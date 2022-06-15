@@ -45,8 +45,10 @@
 
 **Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1536774309372469248?t=C59EXsITeEbO29hPeLHYPg&s=19)
 
-### Day 5: June 14, 2022
+### Day 6: June 15, 2022
 
-**Today's Progress**: Worked on a simple full page nav menu project
+**Today's Progress**: finished a syllabus in freeCodeCamp
 
-**Thoughts**: 
+**Thoughts**: I completed the CSS grid exercise on freeCodeCamp's New responsive web design curriculum. Up next is the certification project where I am required to build a landing page while sticking to the laid down guidelines
+
+***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537068528628539392?t=OlKdqQcSGib3HhNZxj1g9g&s=19)
