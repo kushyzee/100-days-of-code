@@ -52,3 +52,11 @@
 **Thoughts**: I completed the CSS grid exercise on freeCodeCamp's New responsive web design curriculum. Up next is the certification project where I am required to build a landing page while sticking to the laid down guidelines
 
 ***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537068528628539392?t=OlKdqQcSGib3HhNZxj1g9g&s=19)
+
+### Day 7: June 16, 2022
+
+**Today's progress**: Started my landing page certification project
+
+**Thoughts**: Started working on my landing page certification project today. I quickly built a template using the guidelines specified by freeCodeCamp to make sure I passed all the test, so right now I will build the page around the template I created. After some minutes of thinking about the type of landing page I want to do, I finally settled on creating one for a rental car service (zee rental). I already made some sketches of the layout and various components, next will be to put them all together
+
+***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537545150985125889?t=sqSCiboyaoKAEGmmw4UWjQ&s=19)
