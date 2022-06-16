@@ -21,5 +21,8 @@ Finally got done with the technical documentation project from freecodecamp. You
 ### R1D5
 - I didn't have access to my laptop for most part of today, so I used my phone to work on a little project using the knowledge of a video tutorial I watched on YouTube a few days ago. It's a simple full page nav menu using just HTML and CSS
 
-###R1D5 
+### R1D6 
 - I completed the CSS grid exercise on freeCodeCamp's New responsive web design curriculum. Up next is the certification project where I am required to build a landing page while sticking to the laid down guidelines
+
+### R1D7
+- Started working on my landing page certification project today. I quickly built a template using the guidelines specified by @freeCodeCamp to make sure I passed all the test, so right now I will build the page around the template I created.
