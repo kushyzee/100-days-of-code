@@ -26,3 +26,6 @@ Finally got done with the technical documentation project from freecodecamp. You
 
 ### R1D7
 - Started working on my landing page certification project today. I quickly built a template using the guidelines specified by @freeCodeCamp to make sure I passed all the test, so right now I will build the page around the template I created.
+
+### R1D8
+- Today I started writing out the HTML for the landing page project by freecodecamp, it's a page for a car rental service
