@@ -60,3 +60,11 @@
 **Thoughts**: Started working on my landing page certification project today. I quickly built a template using the guidelines specified by freeCodeCamp to make sure I passed all the test, so right now I will build the page around the template I created. After some minutes of thinking about the type of landing page I want to do, I finally settled on creating one for a rental car service (zee rental). I already made some sketches of the layout and various components, next will be to put them all together
 
 ***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537545150985125889?t=sqSCiboyaoKAEGmmw4UWjQ&s=19)
+
+### Day 8: June 17, 2022
+
+**Today's progress**: worked on the landing page project
+
+**Thoughts**: Today I started writing out the HTML for the landing page project by freecodecamp, it's a page for a car rental service
+
+***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537918700719771648?t=IsayR08W-kevBSxkuCo11Q&s=19)
