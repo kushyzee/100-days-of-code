@@ -29,3 +29,9 @@ Finally got done with the technical documentation project from freecodecamp. You
 
 ### R1D8
 - Today I started writing out the HTML for the landing page project by freecodecamp, it's a page for a car rental service
+
+### R1D9
+I made a major breakthrough today while trying to create a collapsible sidebar. I was stuck for a while but I was able to figure it out later on
+
+- [Github repository](https://github.com/kushyzee/zee-rentals-landing-page)
+
