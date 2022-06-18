@@ -73,6 +73,6 @@
 
 **Today's progress**: continued working on the landing page project
 
-**Thoughts**: I made a major breakthrough while trying to create a colapsible sidebar. I was stuck for a while but I was able to figure it out later on.
+**Thoughts**: I made a major breakthrough while trying to create a collapsible sidebar. I was stuck for a while but I was able to figure it out later on.
 
 ***Link(s) to work**: [Github repository](https://github.com/kushyzee/zee-rentals-landing-page)
