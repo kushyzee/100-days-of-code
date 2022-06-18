@@ -68,3 +68,11 @@
 **Thoughts**: Today I started writing out the HTML for the landing page project by freecodecamp, it's a page for a car rental service
 
 ***Link(s) to work**: [Twitter tweet](https://twitter.com/kushyzeena/status/1537918700719771648?t=IsayR08W-kevBSxkuCo11Q&s=19)
+
+### Day 9: June 18, 2022
+
+**Today's progress**: continued working on the landing page project
+
+**Thoughts**: I made a major breakthrough while trying to create a colapsible sidebar. I was stuck for a while but I was able to figure it out later on.
+
+***Link(s) to work**: [Github repository](https://github.com/kushyzee/zee-rentals-landing-page)
