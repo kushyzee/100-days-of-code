@@ -35,3 +35,7 @@ I made a major breakthrough today while trying to create a collapsible sidebar. 
 
 - [Github repository](https://github.com/kushyzee/zee-rentals-landing-page)
 
+### R1D10
+Continued working on the car rental landing page. I am considering setting the nav menu as a top nav bar instead of putting it on the left
+
+- [Github commits](https://github.com/kushyzee/zee-rentals-landing-page/commit/12a29fc5502cbfcccdb439f1798be3af10ed95e2)
