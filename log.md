@@ -83,3 +83,9 @@
 
 **Thoughts**: I am thinking about placing the collapsible sidebar at the top of the page instead of the right side
 [Github commits](https://github.com/kushyzee/zee-rentals-landing-page/commit/12a29fc5502cbfcccdb439f1798be3af10ed95e2)
+
+### Day 11: June 21. 2022
+
+**Today's progress**: Completed the mobile version of the landing page project
+
+**Thoughts**: I finally finished the mobile version of the zee rental app and I am moving to the desktop version next but first I have to pick a good color theme because right now the design is still in black and white
