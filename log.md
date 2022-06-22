@@ -89,3 +89,12 @@
 **Today's progress**: Completed the mobile version of the landing page project
 
 **Thoughts**: I finally finished the mobile version of the zee rental app and I am moving to the desktop version next but first I have to pick a good color theme because right now the design is still in black and white
+
+### Day 12: June 22. 2022
+
+**Today's progress**: continued working on the landing page
+
+**Thoughts**: I moved over to the the desktop layout today and also added some colors to the project. I am having problems working with the grids and I have to go back to grid tutorials to see what I am missing
+
+***Link(s) to work**: [Github commits](https://github.com/kushyzee/zee-rentals-landing-page/commits/master)
+
