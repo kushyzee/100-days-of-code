@@ -98,3 +98,8 @@
 
 ***Link(s) to work**: [Github commits](https://github.com/kushyzee/zee-rentals-landing-page/commits/master)
 
+### Day 13: June 23. 2022
+
+**Today's progress**: Started computer science course
+
+**Thoughts**: I started taking a computer science course (CS50) today with Harvard. I got introduced to the fundamentals of programming where I learnt about variables, loops, booleans, functions, conditioners, etc
