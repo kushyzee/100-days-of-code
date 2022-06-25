@@ -103,3 +103,10 @@
 **Today's progress**: Started computer science course
 
 **Thoughts**: I started taking a computer science course (CS50) today with Harvard. I got introduced to the fundamentals of programming where I learnt about variables, loops, booleans, functions, conditioners, etc
+
+**Today's progress**: I finally completed the landing page project
+
+**Thoughts**: I got done with the landing page certification project by freecodecamp and I successfully submitted it. I continued the responsive web design curriculum and I will soon be done with it
+
+***Link(s) to work**: [Landing page preview](https://zeerentals.vercel.app/)
+
