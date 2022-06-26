@@ -112,3 +112,8 @@
 
 ***Link(s) to work**: [Landing page preview](https://zeerentals.vercel.app/)
 
+### Day 15: June 26. 2022
+
+**Today's progress**: started a new project today
+
+**Thoughts**: I completed the CSS grid lesson in freecodecamp and i have started working on the last cerfication project which involves building a personal portfolio website. I am in the process of gathering ideas on how to go about it by looking at different portfolios to get inspiration from them
