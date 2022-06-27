@@ -117,3 +117,11 @@
 **Today's progress**: started a new project today
 
 **Thoughts**: I completed the CSS grid lesson in freecodecamp and i have started working on the last cerfication project which involves building a personal portfolio website. I am in the process of gathering ideas on how to go about it by looking at different portfolios to get inspiration from them
+
+### Day 16: June 27. 2022
+
+**Today's progress**: I started working on the personal portfolio website
+
+**Thoughts**: After getting inspiration from other portfolios and sketching the design with a pen on a plain paper, I started building the portfolio website.
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commit/0ed33be2a7c5a0ada8137d8e0f184c684f3e89db)
