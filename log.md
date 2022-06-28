@@ -125,3 +125,11 @@
 **Thoughts**: After getting inspiration from other portfolios and sketching the design with a pen on a plain paper, I started building the portfolio website.
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commit/0ed33be2a7c5a0ada8137d8e0f184c684f3e89db)
+
+### Day 17: June 28. 2022
+
+**Today's progress**: worked on the navigation bar of the portfolio website 
+
+**Thoughts**: yesterday, I was stuck on trying to figure out how to make the collapsible navbar work but I finally figured it out after watching a tutorial video on YouTube.
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commit/29c21dc0c6c5b8975c78e88055124e543ce7a0ec)
