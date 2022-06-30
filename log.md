@@ -141,3 +141,11 @@
 **Thoughts**: I got down with the first page of the portfolio website. I am probably going to add more features later on but for now I am done with it.
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/master)
+
+### Day 18: June 29. 2022
+
+**Today's progress**: continued working on the portfolio project
+
+**Thoughts**: I love how the project is progressing smoothly. I took a different approach by doing the html and css together. Before now, I first focus on building the entire html before moving over to css.
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
