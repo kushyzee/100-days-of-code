@@ -142,10 +142,18 @@
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/master)
 
-### Day 18: June 29. 2022
+### Day 19: June 30. 2022
 
 **Today's progress**: continued working on the portfolio project
 
 **Thoughts**: I love how the project is progressing smoothly. I took a different approach by doing the html and css together. Before now, I first focus on building the entire html before moving over to css.
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
+
+### Day 20: July 1. 2022
+
+**Today's progress**: finished the mobile version of the portfolio project
+
+**Thoughts**: I completed the mobile layout of the portfolio website and I am adding some finishing touches to it like colors and animation. I am having a hard time with the animation, I have to check out some tutorials online to figure it out
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
