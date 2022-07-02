@@ -157,3 +157,11 @@
 **Thoughts**: I completed the mobile layout of the portfolio website and I am adding some finishing touches to it like colors and animation. I am having a hard time with the animation, I have to check out some tutorials online to figure it out
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
+
+### Day 21: July 2. 2022
+
+**Today's progress**: Started working on the desktop version of the portfolio website
+
+**Thoughts**: After fine-tuning all the animation I implemented the previous day, I started building the deskop version of the website. I utilised only flexbox in moving things around and I am almost done with the whole thing.
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
