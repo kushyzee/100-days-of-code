@@ -165,3 +165,13 @@
 **Thoughts**: After fine-tuning all the animation I implemented the previous day, I started building the deskop version of the website. I utilised only flexbox in moving things around and I am almost done with the whole thing.
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
+
+### Day 22: July 3. 2022
+
+**Today's progress**: Completed freecodecamp's responsive web design course
+
+**Thoughts**: I finally completed the personal portfolio project and submitted it, which officially marked the end of the course. I succesfully earned my certificate which can be seen here: [certificate](https://www.freecodecamp.org/certification/kushyzee/responsive-web-design)
+
+***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
+
+
