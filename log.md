@@ -174,4 +174,8 @@
 
 ***Link(s) to work**: [GitHub commits](https://github.com/kushyzee/personal-portfolio/commits/temp)
 
+### Day 23: July 4. 2022
 
+**Today's progress**: Took Harvard's CS50 course
+
+**Thoughts**: Now that i am done with freecodecamp's responsive web design course, I fully focused on the introduction to computer science (CS50) course by Harvard. I learnt about the different kinds of loop in C language which are For loop, Do-while loop and the while loop (infinite loop)
