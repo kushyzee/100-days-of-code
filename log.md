@@ -179,3 +179,9 @@
 **Today's progress**: Took Harvard's CS50 course
 
 **Thoughts**: Now that i am done with freecodecamp's responsive web design course, I fully focused on the introduction to computer science (CS50) course by Harvard. I learnt about the different kinds of loop in C language which are For loop, Do-while loop and the while loop (infinite loop)
+
+### Day 24: July 6. 2022
+
+**Today's progress**: Worked on a coding exercise using C
+
+**Thoughts**: I started working on Harvard CS50 problem set one which is done using the c language. I couldn't figure out how to solve the problem correctly and I had to research about it online and finally figured it out
