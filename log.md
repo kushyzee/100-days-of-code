@@ -185,3 +185,10 @@
 **Today's progress**: Worked on a coding exercise using C
 
 **Thoughts**: I started working on Harvard CS50 problem set one which is done using the c language. I couldn't figure out how to solve the problem correctly and I had to research about it online and finally figured it out
+
+### Day 25: July 7. 2022
+
+**Today's progress**: Finally completed CS50 problem set 1
+
+**Thoughts**: Aftering tinkering with the problem today, I finally worked it out and successfully passed all the test. I have submitted it and move on to the next problem 
+
