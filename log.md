@@ -192,3 +192,8 @@
 
 **Thoughts**: Aftering tinkering with the problem today, I finally worked it out and successfully passed all the test. I have submitted it and move on to the next problem 
 
+### Day 26: July 8. 2022
+
+**Today's progress**: watched a tutorial on building a website from scratch
+
+**Thoughts**: I have been sick for about two days but I am slowly getting better. I couldn't do any coding yesterday as well as today but I watched a tutorial video by Kevin Powell on how he approach building a website from start to finish 
