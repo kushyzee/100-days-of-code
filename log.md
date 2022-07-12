@@ -197,3 +197,9 @@
 **Today's progress**: watched a tutorial on building a website from scratch
 
 **Thoughts**: I have been sick for about two days but I am slowly getting better. I couldn't do any coding yesterday as well as today but I watched a tutorial video by Kevin Powell on how he approach building a website from start to finish 
+
+### Day 27: July 12. 2022
+
+**Today's progress**: Learnt about data types in C
+
+**Thoughts**: I am still not completely recovered from my illness and I can't really do much coding without getting stressed out. I learnt about data types today and how they are used in C (integers, characters, strings, floats, etc)
