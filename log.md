@@ -203,3 +203,9 @@
 **Today's progress**: Learnt about data types in C
 
 **Thoughts**: I am still not completely recovered from my illness and I can't really do much coding without getting stressed out. I learnt about data types today and how they are used in C (integers, characters, strings, floats, etc)
+
+### Day 28: July 13. 2022
+
+**Today's progress**: Started the next exercise in CS50 problem set one
+
+**Thoughts**: I started the second exercise in the problem set one of Harvard's CS50 and I am working on a problem called greedy algorithm. I am almost done with it and will finish it up tomorrow.
