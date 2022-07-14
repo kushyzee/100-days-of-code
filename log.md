@@ -209,3 +209,10 @@
 **Today's progress**: Started the next exercise in CS50 problem set one
 
 **Thoughts**: I started the second exercise in the problem set one of Harvard's CS50 and I am working on a problem called greedy algorithm. I am almost done with it and will finish it up tomorrow.
+
+### Day 29: July 14. 2022
+
+**Today's progress**: Learnt about arrays
+
+**Thoughts**: I continued with the CS50 course today and I learnt about arrays and how they are used in C programming. I finished the week 2 and got started with problem set 2 which looks like it's going to be quite stressful 
+
