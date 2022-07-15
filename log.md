@@ -216,3 +216,8 @@
 
 **Thoughts**: I continued with the CS50 course today and I learnt about arrays and how they are used in C programming. I finished the week 2 and got started with problem set 2 which looks like it's going to be quite stressful 
 
+### Day 30: July 15. 2022
+
+**Today's progress**: Learnt about functions 
+
+**Thoughts**: I created my first function today after taking a short lesson on it. A test problem was given at the end of the lecture to see if what has been taught about declaring and defining functions was understood and I successfully passed the test
