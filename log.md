@@ -221,3 +221,9 @@
 **Today's progress**: Learnt about functions 
 
 **Thoughts**: I created my first function today after taking a short lesson on it. A test problem was given at the end of the lecture to see if what has been taught about declaring and defining functions was understood and I successfully passed the test
+
+### Day 31: July 17. 2022
+
+**Today's progress**: Continued CS50 course 
+
+**Thoughts**: I didn't do much today aside from continuing with the #CS50 course. I was supposed to start problem set 2 today but I just decide to leave it for tomorrow and I used the rest of today to revise what I've learnt the previous week (arrays, variable scope)
