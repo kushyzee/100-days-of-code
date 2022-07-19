@@ -227,3 +227,10 @@
 **Today's progress**: Continued CS50 course 
 
 **Thoughts**: I didn't do much today aside from continuing with the #CS50 course. I was supposed to start problem set 2 today but I just decide to leave it for tomorrow and I used the rest of today to revise what I've learnt the previous week (arrays, variable scope)
+
+### Day 32: July 19. 2022
+
+**Today's progress**: completed problem set 2
+
+**Thoughts**: I completed the first set of problem set 2 of Harvard's CS50 course. I enjoyed working on this problem and I thought I was beginning to get really good at C programming but the next problem set was more difficult as I thought and isn't as much fun. I have made good progress on it though and I will complete it tomorrow 
+
