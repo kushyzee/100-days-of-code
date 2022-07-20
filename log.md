@@ -234,3 +234,9 @@
 
 **Thoughts**: I completed the first set of problem set 2 of Harvard's CS50 course. I enjoyed working on this problem and I thought I was beginning to get really good at C programming but the next problem set was more difficult as I thought and isn't as much fun. I have made good progress on it though and I will complete it tomorrow 
 
+### Day 33: July 20. 2022
+
+**Today's progress**: Learnt about recursions
+
+**Thoughts**: I had a hard time understanding recursions after watching the CS50 lecture video about it so I did some research about it and I found a really good YouTube channel that explained it very well and I have understood a lot about recursions, far better than what I got from CS50 
+
