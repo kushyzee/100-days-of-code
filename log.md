@@ -240,3 +240,8 @@
 
 **Thoughts**: I had a hard time understanding recursions after watching the CS50 lecture video about it so I did some research about it and I found a really good YouTube channel that explained it very well and I have understood a lot about recursions, far better than what I got from CS50 
 
+### Day 34: July 22. 2022
+
+**Today's progress**: completed CS50 lab 3 problem set
+
+**Thoughts**: I worked on CS50 lab 3 problem which involved figuring out which sorting algorithm is used for several .txt files that contained thousands of numbers. I accomplished this by comparing the run times of some of the files
