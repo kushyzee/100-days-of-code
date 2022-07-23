@@ -245,3 +245,9 @@
 **Today's progress**: completed CS50 lab 3 problem set
 
 **Thoughts**: I worked on CS50 lab 3 problem which involved figuring out which sorting algorithm is used for several .txt files that contained thousands of numbers. I accomplished this by comparing the run times of some of the files
+
+### Day 35: July 23. 2022
+
+**Today's progress**: solved a fibonnaci series problem
+
+**Thoughts**: I was able to solve a fibonnaci series problem using a iteration approach the previous day, so today i tried to solve the same problem making using of functions as well as the recursive method and i was able to solve the problem using those two appoach. so in essence, i was able to solve the fibonnaci problem using 3 different approaches
