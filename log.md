@@ -251,3 +251,10 @@
 **Today's progress**: solved a fibonnaci series problem
 
 **Thoughts**: I was able to solve a fibonnaci series problem using a iteration approach the previous day, so today i tried to solve the same problem making using of functions as well as the recursive method and i was able to solve the problem using those two appoach. so in essence, i was able to solve the fibonnaci problem using 3 different approaches
+
+### Day 36: July 26. 2022
+
+**Today's progress**: Started working on CS50 problem set 3
+
+**Thoughts**: I finished the plurality election problem set yesterday and today i have started working on the runoff election problem which i have gotten halfway through, i will have to complete it tomorrow
+
