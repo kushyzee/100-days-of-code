@@ -258,3 +258,7 @@
 
 **Thoughts**: I finished the plurality election problem set yesterday and today i have started working on the runoff election problem which i have gotten halfway through, i will have to complete it tomorrow
 
+### Day 37: July 27. 2022
+
+**Today's progress**: Did a lot of debugging
+**Thoughts**: it is funny how i always spend more time debugging my codes than actually writing them. I have written most of the codes for the cs50 problem i started yesterday but i noticed they weren't working the way i planned, so i spent several hours figuring out what went wrong and fixing them.
