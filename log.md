@@ -261,4 +261,12 @@
 ### Day 37: July 27. 2022
 
 **Today's progress**: Did a lot of debugging
+
 **Thoughts**: it is funny how i always spend more time debugging my codes than actually writing them. I have written most of the codes for the cs50 problem i started yesterday but i noticed they weren't working the way i planned, so i spent several hours figuring out what went wrong and fixing them.
+
+### Day 38: July 28. 2022
+
+**Today's progress**: Finally completed CS50 problem set 3
+
+**Thoughts**: After several days of working on the runoff election problem, I finally finished it today. I learnt a lot of things while working on the problem and I understood some concepts much better
+
