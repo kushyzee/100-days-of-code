@@ -270,3 +270,9 @@
 
 **Thoughts**: After several days of working on the runoff election problem, I finally finished it today. I learnt a lot of things while working on the problem and I understood some concepts much better
 
+### Day 39: July 30. 2022
+
+**Today's progress**: Started working on CS50 lab 4
+
+**Thoughts**: My task for this lab is to implement some functions that alters the volume of an audio file and stores the altered audio in another file. i have already written one of the functions, it's remaining one more.
+
