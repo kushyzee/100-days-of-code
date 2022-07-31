@@ -276,3 +276,9 @@
 
 **Thoughts**: My task for this lab is to implement some functions that alters the volume of an audio file and stores the altered audio in another file. i have already written one of the functions, it's remaining one more.
 
+### Day 40: July 31. 2022
+
+**Today's progress**: Started working on CS50 problem set 4 (filters)
+
+**Thoughts**: This problem looks like it will be very tought to crack. my task is to created four functions that applies a filter to images (grayscale, sepia, reflection, blur). I already created the grayscale function, up next is sepia
+
