@@ -280,5 +280,12 @@
 
 **Today's progress**: Started working on CS50 problem set 4 (filters)
 
-**Thoughts**: This problem looks like it will be very tought to crack. my task is to created four functions that applies a filter to images (grayscale, sepia, reflection, blur). I already created the grayscale function, up next is sepia
+
+**Thoughts**:This problem looks like it will be very tought to crack. my task is to create four functions that applies a filter to images (grayscale, sepia, reflection, blur). I already created the grayscale function, up next is sepia
+
+### Day 41: August 1. 2022
+
+**Today's progress**: Continued working on CS50 problem set 4
+
+**Thoughts**: I easily wrote the sepia filter function today and I also didn't have much difficutly writing the function for reflecting an image but the last function which is blur is very difficult
 
