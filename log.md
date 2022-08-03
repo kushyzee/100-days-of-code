@@ -289,3 +289,11 @@
 
 **Thoughts**: I easily wrote the sepia filter function today and I also didn't have much difficutly writing the function for reflecting an image but the last function which is blur is very difficult
 
+### Day 42: August 3. 2022
+
+**Today's progress**: Completed CS50 problem set 4
+
+**Thoughts**: After several days, I was finally able to complete this problem set. It was a very challenging problem but I am glad to have successfully completed. Writing the codes for the first two filters (grayscale and sepia) wasn't so difficult but the 3rd filter (reflection) was a bit difficult while the last one (blur) was the toughest
+
+
+
