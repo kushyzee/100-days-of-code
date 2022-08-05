@@ -295,5 +295,9 @@
 
 **Thoughts**: After several days, I was finally able to complete this problem set. It was a very challenging problem but I am glad to have successfully completed. Writing the codes for the first two filters (grayscale and sepia) wasn't so difficult but the 3rd filter (reflection) was a bit difficult while the last one (blur) was the toughest
 
+### Day 43: August 5. 2022
 
+**Today's progress**: wrote some pseudocodes
+
+**Thoughts**: I started working on a new problem set from Harvard and I wrote the pseudocodes for it. I am not yet done coz I haven't fully understood the problem 
 
