@@ -301,3 +301,8 @@
 
 **Thoughts**: I started working on a new problem set from Harvard and I wrote the pseudocodes for it. I am not yet done coz I haven't fully understood the problem 
 
+### Day 44: August 6. 2022
+
+**Today's progress**: completed CS50 problem set 5
+
+**Thoughts**: This problem was much easier than I thought and everything became easier after I wrote the pseudocode and broke the problem into smaller components 
