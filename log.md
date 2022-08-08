@@ -306,3 +306,10 @@
 **Today's progress**: completed CS50 problem set 5
 
 **Thoughts**: This problem was much easier than I thought and everything became easier after I wrote the pseudocode and broke the problem into smaller components 
+
+### Day 45: August 8. 2022
+
+**Today's progress**: learnt about asymptotic analysis
+
+**Thoughts**: I was supposed to continue with CS50 course today but I decided to just read up on this week's topic before watching the video for week 5, so I went to YouTube and watched the data structure course videos from neso academy 
+
