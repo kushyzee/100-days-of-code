@@ -313,3 +313,11 @@
 
 **Thoughts**: I was supposed to continue with CS50 course today but I decided to just read up on this week's topic before watching the video for week 5, so I went to YouTube and watched the data structure course videos from neso academy 
 
+### Day 46: August 9. 2022
+
+**Today's progress**: Started week 5 of CS50
+
+**Thoughts**: I learnt about linked lists and how to create them in C programming using structs. I still don't fully understand the whole thing, so I plan on making more research on YouTube 
+
+
+
