@@ -319,5 +319,9 @@
 
 **Thoughts**: I learnt about linked lists and how to create them in C programming using structs. I still don't fully understand the whole thing, so I plan on making more research on YouTube 
 
+### Day 47: August 11. 2022
 
+**Today's progress**: Built a simple calculator
+
+**Thoughts**: I didn't have access to my laptop today, so I used my phone to create a simple calculator program in C programming. It does simple arithmetic operations (addition, subtraction, multiplication and division 
 
