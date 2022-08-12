@@ -325,3 +325,10 @@
 
 **Thoughts**: I didn't have access to my laptop today, so I used my phone to create a simple calculator program in C programming. It does simple arithmetic operations (addition, subtraction, multiplication and division 
 
+### Day 48: August 12. 2022
+
+**Today's progress**: Started working on Harvard's CS50 lab 5 project 
+
+**Thoughts**: I still haven't fully understand the project, but at least I know about some of the things I am to do. I will have to go through the guidelines again to try figure out how to do the tasks given in the project 
+
+
