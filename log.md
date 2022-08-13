@@ -331,4 +331,10 @@
 
 **Thoughts**: I still haven't fully understand the project, but at least I know about some of the things I am to do. I will have to go through the guidelines again to try figure out how to do the tasks given in the project 
 
+### Day 49: August 13. 2022
+
+**Today's progress**: Went through some source codes from CS50
+
+I started working on a lab 5 problem yesterday and up till now I still can't figure out how to start it.I had to go through the source codes that were used during the class to understand how hash tables and tries work.
+
 
