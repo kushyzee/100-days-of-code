@@ -335,6 +335,12 @@
 
 **Today's progress**: Went through some source codes from CS50
 
-I started working on a lab 5 problem yesterday and up till now I still can't figure out how to start it.I had to go through the source codes that were used during the class to understand how hash tables and tries work.
+**Thoughts**: I started working on a lab 5 problem yesterday and up till now I still can't figure out how to start it.I had to go through the source codes that were used during the class to understand how hash tables and tries work.
+
+### Day 50: August 15. 2022
+
+**Today's progress**: Completed CS50 Lab 5 project
+
+**Thoughts**: I finally completed the Lab 5 problem which turned out to be easier than I thought. I was supposed to start problem set 5 but GitHub codespaces refused to connect throughout today so I took that opportunity to go start working on the very first project Harvard gave in the week one lecture which I have been postponing 
 
 
