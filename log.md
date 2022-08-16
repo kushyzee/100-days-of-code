@@ -343,4 +343,9 @@
 
 **Thoughts**: I finally completed the Lab 5 problem which turned out to be easier than I thought. I was supposed to start problem set 5 but GitHub codespaces refused to connect throughout today so I took that opportunity to go start working on the very first project Harvard gave in the week one lecture which I have been postponing 
 
+### Day 51: August 16. 2022
+
+**Today's progress**: Started building a simple game
+
+**Thoughts**: I spent time building a simple traffic crossing game which is my project for the very first CS50 problem set. I still have a lots of features to add to the game and it will probably take me the rest of this week to complete it
 
