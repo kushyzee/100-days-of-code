@@ -349,8 +349,15 @@
 
 **Thoughts**: I spent time building a simple traffic crossing game which is my project for the very first CS50 problem set. I still have a lots of features to add to the game and it will probably take me the rest of this week to complete it
 
-### Day 51: August 16. 2022
+### Day 52: August 18. 2022
 
 **Today's progress**: Did some challenges on codewars
 
 **Thoughts**: I signed up on codewars today and did some kata. It was fun and it helped me strengthen my knowledge of C language but I'm stuck on the next kata. I will come back to it later on after taking a break
+
+### Day 53: August 20. 2022
+
+**Today's progress**: Started a frontend mentors challenge 
+
+**Thoughts**: It has been some months since I did any project using HTML and CSS, so I started working on a coding challenge by frontendmentors. I have made good progress and should get it completed tomorrow 
+
