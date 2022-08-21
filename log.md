@@ -361,3 +361,9 @@
 
 **Thoughts**: It has been some months since I did any project using HTML and CSS, so I started working on a coding challenge by frontendmentors. I have made good progress and should get it completed tomorrow 
 
+### Day 54: August 21. 2022
+
+**Today's progress**: solved some problems on codewars and hackerrank
+
+**Thoughts**: i have been trying to solve a particular problem on codewars for over 2 days but i ran into a bug that i couldn't figure out, so today i signed up on hackerrank. I went back to the codewars problem later on and i finally figured out what was wrong with the code
+
