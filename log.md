@@ -367,3 +367,14 @@
 
 **Thoughts**: i have been trying to solve a particular problem on codewars for over 2 days but i ran into a bug that i couldn't figure out, so today i signed up on hackerrank. I went back to the codewars problem later on and i finally figured out what was wrong with the code
 
+### Day 55: August 22. 2022
+
+**Today's progress**: Completed a frontend mentor challenge
+
+**Thoughts**: It has been about 2 months since i did any web development using html and css, so today i took up one of the challenges from frontend mentor and solved it.
+
+***Link(s) to work**: [Github repository](https://github.com/kushyzee/product-preview-card-component/commits/main)
+
+
+
+
