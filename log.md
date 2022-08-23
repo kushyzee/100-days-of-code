@@ -375,6 +375,11 @@
 
 ***Link(s) to work**: [Github repository](https://github.com/kushyzee/product-preview-card-component/commits/main)
 
+### Day 56: August 23. 2022
+
+**Today's progress**: I went back to working on the game using scratch
+
+**Thoughts**: I was supposed to start cs50 problem set 5 today but i decided to work on the simple game i have been creating for about a week now. the game is being created with scratch and it's the first project given to me by harvard which i am yet to complete
 
 
 
