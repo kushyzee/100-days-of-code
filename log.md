@@ -381,5 +381,9 @@
 
 **Thoughts**: I was supposed to start cs50 problem set 5 today but i decided to work on the simple game i have been creating for about a week now. the game is being created with scratch and it's the first project given to me by harvard which i am yet to complete
 
+### Day 57: August 24. 2022
 
+**Today's progress**: finally completed the game 
+
+**Thoughts**: After spending hours fine tuning the game, adjusting the difficulty and adding sound effrcts, I finally completed it. I haven't finalized it and prepare to submit to Harvard because there's a high chance I will still improve some of its features later on but for now I am done with it and started working on the problem set 5
 
