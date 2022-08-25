@@ -387,3 +387,9 @@
 
 **Thoughts**: After spending hours fine tuning the game, adjusting the difficulty and adding sound effrcts, I finally completed it. I haven't finalized it and prepare to submit to Harvard because there's a high chance I will still improve some of its features later on but for now I am done with it and started working on the problem set 5
 
+### Day 58: August 25. 2022
+
+**Today's progress**: Made significant progress on CS50 problem set 5
+
+**Thoughts**: The problem looked intimidating at first but it was actually easy when I could understand what I was supposed to do. I completed all the given tasks and I am currently debugging the program before I can submit it
+
