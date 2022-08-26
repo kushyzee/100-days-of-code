@@ -393,7 +393,7 @@
 
 **Thoughts**: The problem looked intimidating at first but it was actually easy when I could understand what I was supposed to do. I completed all the given tasks and I am currently debugging the program before I can submit it
 
-### Day 58: August 25. 2022
+### Day 59: August 26. 2022
 
 **Today's progress**: Completed CS50 problem set 5
 
