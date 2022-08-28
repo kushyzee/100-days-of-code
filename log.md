@@ -399,4 +399,9 @@
 
 **Thoughts**: I finally debugged the program today and I submitted the solution which finally signifies i have end C programming lectures and can no move on to python.
 
+### Day 60: August 28. 2022
+
+**Today's progress**: Started learning python
+
+**Thoughts**: I started learning python yesterday and for today, I rewrote some of my projects I wrote with C using python. I am still having problem understanding the new syntax but at least I am starting to understand bits and pieces 
 
