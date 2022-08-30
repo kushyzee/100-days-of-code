@@ -405,3 +405,10 @@
 
 **Thoughts**: I started learning python yesterday and for today, I rewrote some of my projects I wrote with C using python. I am still having problem understanding the new syntax but at least I am starting to understand bits and pieces 
 
+### Day 61: August 30. 2022
+
+**Today's progress**: Started learning SQL
+
+**Thoughts**: I learnt a lot about SQL today and how to query databases but I still don't fully understand how it works, so I will do further research on it and learn more
+
+
