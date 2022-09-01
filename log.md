@@ -411,4 +411,8 @@
 
 **Thoughts**: I learnt a lot about SQL today and how to query databases but I still don't fully understand how it works, so I will do further research on it and learn more
 
+### Day 62: September 1. 2022
 
+**Today's progress**: Currently working on CS50 problem set 7
+
+**Thoughts**: The current problem set is very interesting because it has to do with querying a database with the set of questions given to me by Harvard. I almost done with all the tasks, I should be able to finish everything tomorrow 
