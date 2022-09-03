@@ -416,3 +416,10 @@
 **Today's progress**: Currently working on CS50 problem set 7
 
 **Thoughts**: The current problem set is very interesting because it has to do with querying a database with the set of questions given to me by Harvard. I almost done with all the tasks, I should be able to finish everything tomorrow 
+
+### Day 63: September 3. 2022
+
+**Today's progress**: completed problem set 7 (movies)
+
+**Thoughts**: I finally completed the first problem in pset 7, it was all about querying a SQL file filled with data from IMDb. It started out simple but got very complex towards the end but I was able to complete it
+
