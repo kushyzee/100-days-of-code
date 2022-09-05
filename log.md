@@ -423,3 +423,8 @@
 
 **Thoughts**: I finally completed the first problem in pset 7, it was all about querying a SQL file filled with data from IMDb. It started out simple but got very complex towards the end but I was able to complete it
 
+### Day 64: September 5. 2022
+
+**Today's progress**: Started learning JavaScript with freecodecamp 
+
+**Thoughts**: I am currently in week 8 of Harvard's CS50 and I have been introduced to JavaScript but Harvard didn't go in-depth, as so I have started taking the JavaScript course on freeCodeCamp
