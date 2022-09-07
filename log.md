@@ -428,3 +428,9 @@
 **Today's progress**: Started learning JavaScript with freecodecamp 
 
 **Thoughts**: I am currently in week 8 of Harvard's CS50 and I have been introduced to JavaScript but Harvard didn't go in-depth, as so I have started taking the JavaScript course on freeCodeCamp
+
+### Day 65: September 7. 2022
+
+**Today's progress**: Continued freeCodeCamp's JavaScript course 
+
+**Thoughts**: I couldn't complete the basic JavaScript section last night because of some issues I encountered. I solved more JavaScript problems today and I am almost done with the basics 
