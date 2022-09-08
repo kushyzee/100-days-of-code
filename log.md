@@ -434,3 +434,10 @@
 **Today's progress**: Continued freeCodeCamp's JavaScript course 
 
 **Thoughts**: I couldn't complete the basic JavaScript section last night because of some issues I encountered. I solved more JavaScript problems today and I am almost done with the basics 
+
+### Day 66: September 8. 2022
+
+**Today's progress**: Completed freecodecamp basic javascript
+
+**Thoughts**: I finished the ES5 basic javascript today and i really enjoyed all the challenges i solved. The next topic is ES6
+
