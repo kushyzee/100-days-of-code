@@ -441,3 +441,9 @@
 
 **Thoughts**: I finished the ES5 basic javascript today and i really enjoyed all the challenges i solved. The next topic is ES6
 
+### Day 66: September 10. 2022
+
+**Today's progress**: I have stated learning about JavaScript dom manipulation 
+
+**Thoughts**: I am currently watching a dom manipulation tutorial video on YouTube and I am beginning to really enjoy JavaScript as I am now seeing how it interacts with HTML and CSS 
+
