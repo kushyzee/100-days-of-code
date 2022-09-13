@@ -447,3 +447,9 @@
 
 **Thoughts**: I am currently watching a dom manipulation tutorial video on YouTube and I am beginning to really enjoy JavaScript as I am now seeing how it interacts with HTML and CSS 
 
+### Day 67: September 13. 2022
+
+**Today's progress**: I took some JavaScript lessons
+
+**Thoughts**: I used sololearn app to learn some JavaScript today on my phone. I am currently stuck on a coding exercise and I am having a hard time debugging it, I will just have to continue tomorrow 
+
