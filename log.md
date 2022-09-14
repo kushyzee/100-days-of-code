@@ -453,3 +453,10 @@
 
 **Thoughts**: I used sololearn app to learn some JavaScript today on my phone. I am currently stuck on a coding exercise and I am having a hard time debugging it, I will just have to continue tomorrow 
 
+### Day 68: September 14. 2022
+
+**Today's progress**: Learnt about JavaScript objects 
+
+**Thoughts**: JavaScript objects are a lot similar to dictionaries in python and structures in C, it was difficult for me to know how it works coz I already got a good knowledge of it from python and C
+
+
