@@ -459,4 +459,10 @@
 
 **Thoughts**: JavaScript objects are a lot similar to dictionaries in python and structures in C, it was difficult for me to know how it works coz I already got a good knowledge of it from python and C
 
+### Day 69: September 16. 2022
+
+**Today's progress**: Practiced JavaScript arrays
+
+**Thoughts**: I practiced JavaScript objects and compared it to structures in C and dictionaries in python by building three different projects with those languages 
+
 
