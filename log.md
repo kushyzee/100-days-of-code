@@ -465,4 +465,9 @@
 
 **Thoughts**: I practiced JavaScript objects and compared it to structures in C and dictionaries in python by building three different projects with those languages 
 
+### Day 70: September 19. 2022
+
+**Today's progress**: I learned about Destructuring objects in JavaScript
+
+**Thoughts**: Destructuring can be used to assign properties of an object to a variable. I am still struggling to figure out how it works, i will practice more about it later on
 
