@@ -471,3 +471,12 @@
 
 **Thoughts**: Destructuring can be used to assign properties of an object to a variable. I am still struggling to figure out how it works, i will practice more about it later on
 
+### Day 71: September 20. 2022
+
+**Today's progress**: I wrote an article about Javascript objects
+
+**Thoughts**: I talked about javascript objects, python dictionaries and C structures in the article I wrote and published on hive.blog
+
+***Link(s) to work**: [click to read](https://ecency.com/hive-169321/@kushyzee/objects-in-javascript-python-and)
+
+
