@@ -479,4 +479,8 @@
 
 ***Link(s) to work**: [click to read](https://ecency.com/hive-169321/@kushyzee/objects-in-javascript-python-and)
 
+### Day 72: September 22. 2022
 
+**Today's progress**: Started learning about JavaScript DOM 
+
+**Thoughts**: I got started on JavaScript DOM today and I am beginning to really enjoy JavaScript. I am currently working on a webpage that makes use of some of the things I have learnt in JavaScript 
