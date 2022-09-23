@@ -484,3 +484,14 @@
 **Today's progress**: Started learning about JavaScript DOM 
 
 **Thoughts**: I got started on JavaScript DOM today and I am beginning to really enjoy JavaScript. I am currently working on a webpage that makes use of some of the things I have learnt in JavaScript 
+
+### Day 73: September 23. 2022
+
+**Today's progress**: Completed freecodecamp Javascript ES6 section
+
+**Thoughts**: I completed the webpage i was working on previously and decided to go back to freecodecamp javascript course and got started learning regular expressions
+
+
+
+
+
