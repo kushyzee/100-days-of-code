@@ -491,7 +491,11 @@
 
 **Thoughts**: I completed the webpage i was working on previously and decided to go back to freecodecamp javascript course and got started learning regular expressions
 
+### Day 74: September 24. 2022
 
+**Today's progress**: solved a problem using recursion
+
+**Thoughts**: I have brushed up on my recursion skills by solving a problem using recursion in javascript. it is much easier to use recursion in javascript than in C
 
 
 
