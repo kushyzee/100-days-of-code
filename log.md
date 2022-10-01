@@ -503,5 +503,11 @@
 
 **Thoughts**: I was sick for the past few days and i took a break from coding so i could recover. I recently completed the regular expression tutorial on freecodecamp and it is still a bit confusing but I will do more exercises to fully understand it
 
+### Day 75: October 1. 2022
+
+**Today's progress**: Started the basic data structure of javascript in freecodecamp
+
+**Thoughts**: I started learning about javascript basic data stucture and i started with arrays, which is basically same thing as what i learned in C
+
 
 
