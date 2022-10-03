@@ -509,5 +509,9 @@
 
 **Thoughts**: I started learning about javascript basic data stucture and i started with arrays, which is basically same thing as what i learned in C
 
+### Day 76: October 3. 2022
 
+**Today's progress**: Completed freecodecamp basic data structure section
+
+**Thoughts**: I have completed the basic data structure section and i am currently in the basic algorithm scripting section, where i am given different problems to solve using JavaScript
 
