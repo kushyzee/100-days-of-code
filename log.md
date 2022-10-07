@@ -515,3 +515,12 @@
 
 **Thoughts**: I have completed the basic data structure section and i am currently in the basic algorithm scripting section, where i am given different problems to solve using JavaScript
 
+### Day 77: October 7. 2022
+
+**Today's progress**: Learnt how to build a modal
+
+**Thoughts**: I came across an article on how to build modals using html, css and javascript. It's very easy to do but i still have to practice it a few times to fully learn how to do it on my own
+
+
+
+
