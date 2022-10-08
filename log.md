@@ -521,6 +521,13 @@
 
 **Thoughts**: I came across an article on how to build modals using html, css and javascript. It's very easy to do but i still have to practice it a few times to fully learn how to do it on my own
 
+### Day 77: October 7. 2022
+
+**Today's progress**: Solved some javascript problems
+
+**Thoughts**: I worked on some javascript problems given by freecodecamp in their basic algorithm section of the javascript course. I will move to DOM manipulation tutorial after this
+
+
 
 
 
