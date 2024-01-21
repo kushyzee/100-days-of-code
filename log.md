@@ -2,7 +2,7 @@
 
 ### Day 1: January 21, 2024
 
-**Today's Progress**: Worked on a frontend mentor challeng
+**Today's Progress**: Worked on a frontend mentor challenge
 
 **Thoughts**: I completed a interactive rating component challenge that involved html, css and javascript. It was a fun and simple challenge that helped me to practice javascript
 
